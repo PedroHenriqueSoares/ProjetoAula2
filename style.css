@@ -1,0 +1,50 @@
+header{
+    background-color: #dfd3c3;
+    margin: -10px;
+}
+img{
+    height: 20vh;
+    display: block;
+    margin: 0px auto;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    color: #491616;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -10px;
+}
+.texto2 > p{
+    font-size: 20px;
+    margin: 50px;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+.img2 > img{
+    height: 700px;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    color: #491616;
+}
+.texto3 > p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+footer > p{
+    background-color: #85586f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+}
